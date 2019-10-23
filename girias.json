@@ -1,10 +1,12 @@
 {
-  "slang": [{
+  "slang": [
+    {
       "name": "0800",
       "meaning": "De graça",
-      "description": "",
-      "example": "",
-      "reference": ""
+      "description": "Nenhum valor será cobrado para fazer determinada ação",
+      "example": "O churrascão vai ser 0800",
+      "reference": "",
+      "local": ""
     },
     {
       "name": [
@@ -12,37 +14,30 @@
         "Treze"
       ],
       "meaning": "Maluco",
-      "description": "",
-      "example": "",
-      "reference": ""
+      "description": "Pessoa louca, doida, maluca.",
+      "example": "O Marcão é muito 13",
+      "reference": "",
+      "local": ""
     },
     {
       "name": "Bora",
       "meaning": "Vamos",
-      "description": "",
-      "example": "",
-      "reference": ""
+      "description": "Locomover; mover-se de um local para outro",
+      "example": "Bora ir pra casa da Marina?",
+      "reference": "",
+      "local": ""
     },
     {
-      "name": "Chavosa",
-      "meaning": "Estilosa",
-      "description": "",
-      "example": "",
-      "reference": ""
-    },
-    {
-      "name": "Chavosa",
-      "meaning": "Estilosa",
-      "description": "",
-      "example": "",
-      "reference": ""
-    },
-    {
-      "name": "Chavoso",
+      "name": [
+        "Chave",
+        "Chavosa",
+        "Chavoso"
+      ],
       "meaning": "Estiloso",
-      "description": "",
-      "example": "",
-      "reference": ""
+      "description": "Algo que tem estilo.",
+      "example": "Ela tava chavosa hoje",
+      "reference": "",
+      "local": ""
     },
     {
       "name": [
@@ -51,107 +46,99 @@
         "pdp"
       ],
       "meaning": "Tudo certo",
-      "description": "",
-      "example": "",
-      "reference": ""
+      "description": "Confirmação; tudo certo, tranquilo.",
+      "example": "Vou aparecer na festa sim pode pá",
+      "reference": "",
+      "local": ""
     },
     {
       "name": "Ligeiro",
       "meaning": "Esperto",
-      "description": "",
-      "example": "",
-      "reference": ""
+      "description": "Com velocidade acelerada; veloz, ágil.",
+      "example": "Vou ir pra lá ligeiro",
+      "reference": "",
+      "local": ""
     },
     {
-      "name": "Parça",
+      "name": [
+        "Parça",
+        "Parceiro"
+      ],
       "meaning": "Amigo",
-      "description": "",
-      "example": "",
-      "reference": ""
+      "description": "Nome que se dá a um indivíduo que mantém um relacionamento de afeto",
+      "example": "Fala meu parça, tudo certo?",
+      "reference": "",
+      "local": ""
     },
     {
       "name": "Recalque",
       "meaning": "Inveja",
-      "description": "",
-      "example": "",
-      "reference": ""
+      "description": "Desgosto provocado pela felicidade ou prosperidade alheia.",
+      "example": "Seu recalque tá demais",
+      "reference": "",
+      "local": ""
     },
     {
-      "name": "Recalcada",
-      "meaning": "Invejosa",
-      "description": "",
-      "example": "",
-      "reference": ""
-    },
-    {
-      "name": "Recalcado",
+      "name": [
+        "Recalcada",
+        "Recalcado"
+      ],
       "meaning": "Invejoso",
-      "description": "",
-      "example": "",
-      "reference": ""
+      "description": "Que ou aquele que sente inveja, que ou quem revela, em seus gestos, palavras etc., inveja em relação a outrem.",
+      "example": "Tu é muito recalcada",
+      "reference": "",
+      "local": ""
     },
     {
-      "name": "Talarica",
-      "meaning": "Traidora",
-      "description": "",
-      "example": "",
-      "reference": ""
-    },
-    {
-      "name": "Talarico",
+      "name": [
+        "Talarica",
+        "Talarico"
+      ],
       "meaning": "Traidor",
-      "description": "",
-      "example": "",
-      "reference": ""
+      "description": "Aquele que trai, comete traição, fura-olho.",
+      "example": "Talarico e zé polvinho na quebrada não tem vez",
+      "reference": "",
+      "local": ""
     },
     {
       "name": "Crush",
       "meaning": "Paquera",
       "description": "O termo Crush é semelhante ao termo 'queda' ou 'estar afim'.",
       "example": "Ele tem um crush nela",
-      "reference": ""
-    },
-    {
-      "name": "Parça",
-      "meaning": "Amigo",
-      "description": "O termo Parça é usado para dizer que uma pessoa é sua amiga.",
-      "example": "E aí, meu parça!",
-      "reference": ""
+      "reference": "",
+      "local": ""
     },
     {
       "name": "Pistolou",
       "meaning": "Raiva",
       "description": "O termo Pistolou é usado para dizer que uma pessoa está com muita raiva.",
       "example": "A mina tá pistola hoje!",
-      "reference": ""
+      "reference": "",
+      "local": ""
     },
     {
       "name": "Pisar",
       "meaning": "Humilhar",
       "description": "O termo Pisar é usado para dizer que uma pessoa é muito superior a outra.",
       "example": "Pisa menos, Beyoncé!",
-      "reference": ""
+      "reference": "",
+      "local": ""
     },
     {
       "name": "Lacrou",
       "meaning": "Arrasou",
       "description": "O termo Lacrou é usado quando uma pessoa quer informar a pessoa que ela Arrasou no ato realizado, ou seja, se saiu bem no ato.",
       "example": "Exemplo: Amiga você Lacrou nessa maquiagem/Amiga você se saiu bem nessa maquiagem",
-      "reference": ""
+      "reference": "",
+      "local": ""
     },
     {
       "name": "Dar PT",
       "meaning": "Dar Perda Total",
       "description": "usada quando alguém bebe muito e fica extremamente bêbado, chegando a perder os seus sentidos",
       "example": "João bebeu muito na festa da rep e deu PT",
-      "reference": ""
-    },
-    {
-      "name": "PDP",
-      "meaning": "Pode pá",
-      "description": "usada como forma de afirmação, ou seja, representando que a pessoa concorda totalmente com determinada coisas",
-      "example": "- vamos ao cinema hoje? -pdp",
-      "reference": ""
+      "reference": "",
+      "local": ""
     },
     {
       "name": [
@@ -160,28 +147,49 @@
       ],
       "meaning": "Estou contigo nessa",
       "description": "usada como forma de enaltecer alianças, ou seja, dizer para o outro que o mesmo é amigo dele",
-      "example": "- Cóe irmão, sabe que nóis tamo junto!"
+      "example": "- Cóe irmão, sabe que nóis tamo junto!",
+      "reference": "",
+      "local": ""
     },
     {
       "name": "Coé",
       "meaning": "'qual é?', 'o que foi' ou 'O que é isso?'",
       "description": "Usada durante uma interrogação, com uma leve ameaça",
       "example": "coé malandro?? tá louco?",
-      "reference": "http://www.qualeagiria.com.br/giria/coe/"
+      "reference": "http://www.qualeagiria.com.br/giria/coe/",
+      "local": ""
     },
     {
       "name": "SQN",
       "meaning": "Só que não",
       "description": "Usada no final de uma frase, pra negar tudo o que foi falado antes.",
       "example": "Achei 10 reais na rua... sqn.",
-      "reference": "http://www.qualeagiria.com.br/giria/sqn/"
+      "reference": "http://www.qualeagiria.com.br/giria/sqn/",
+      "local": ""
     },
     {
       "name": "Zica",
-      "meaning": "Só que não",
+      "meaning": "Azar",
       "description": "Significa azar, má sorte, maldição, dar merda, dar errado, problema. Ou significa muito bom, o melhor no geral.",
       "example": "Essa mina é mó zica mano, sai fora!",
-      "reference": "http://www.qualeagiria.com.br/giria/zica/"
+      "reference": "http://www.qualeagiria.com.br/giria/zica/",
+      "local": ""
+    },
+    {
+      "name": "Passar pano",
+      "meaning": "Acorbertar",
+      "description": "Passar o pano vem da giria Acobertar, não falar a verdade,omitir, que não é giria popular mas sim da giria de malandro.",
+      "example": "Você passa pano pelo que essa galera fez!",
+      "reference": "https://www.dicionarioinformal.com.br/significado/passar%20um%20pano/4895/",
+      "local": ""
+    },
+    {
+      "name": "Coragem",
+      "meaning": "Mentir descaradamente",
+      "description": "Acusar alguém de mentir descaradamente, afirmar algo sem veracidade",
+      "example": "A senhora foi lá? Coragem",
+      "reference": "",
+      "local": ""
     }
   ]
 }
